@@ -1,0 +1,35 @@
+script : another word for python files that can run operations
+
+argv : argument variable, functions similar to input() but in console
+
+.read() : reads a file's contents
+
+.open() : open's another file
+
+.close() : closes specified file that is open, not required if opened in read only mode
+
+.write() : used for writing in an open program
+
+.truncate() : shortens content of a file
+
+from x import y : importing a module from python libraries
+
+print() : prints out strings to terminal
+
+input() : requests user input to fill a variable
+
+len() : tells the length of a string
+
+exists() : checks whether a file exists
+
+f"" :format string, allows for python expressions w/in a string
+
+\ : Escape characters include a number of symbols after a backslash
+
+\n : escape for new line
+
+\" : escape for a quote within a quote
+
+def name(x): def is define for a function
+
+name(x) : functions are called with their name and arguments
