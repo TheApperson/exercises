@@ -3,6 +3,8 @@ from os.path import exists
 
 script, from_file, to_file = argv
 
+#This program opens a writable file and closes it
+
 print(f"Copying from {from_file} to {to_file}.")
 
 #we could do these two on one line, how?

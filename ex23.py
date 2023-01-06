@@ -1,7 +1,7 @@
 import sys
 script, input_encoding, error = sys.argv
 
-
+#function called within a function
 def main(language_file, encoding, errors):
     line = language_file.readline()
 

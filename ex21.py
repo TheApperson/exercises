@@ -1,3 +1,5 @@
+#this program shows the four fundamental math operations with functions
+
 def add(a, b):
     print(f"ADDING {a} + {b}")
     return a + b

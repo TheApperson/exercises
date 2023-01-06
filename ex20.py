@@ -2,6 +2,8 @@ from sys import argv
 
 script, input_file = argv
 
+#practice creating functions for printing and seeking through files
+
 def print_all(f):
     print(f.read())
 
